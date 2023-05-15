@@ -22,7 +22,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.appdistribution.FirebaseAppDistribution
 import com.google.firebase.appdistribution.FirebaseAppDistributionException
 import com.google.firebase.appdistribution.ktx.appDistribution
-import com.google.firebase.appdistributioncodelab.databinding.ActivityMainBinding
+import com.google.firebase.appdistributionquickstart.databinding.ActivityMainBinding
 import com.google.firebase.ktx.Firebase
 
 class MainActivity : AppCompatActivity() {
